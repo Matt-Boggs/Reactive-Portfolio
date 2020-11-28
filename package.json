@@ -1,0 +1,20 @@
+{
+  "name": "Reactive-Portfolio",
+  "version": "1.0.0",
+  "description": "## Info:  Use react to keep track of a directory of users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matt-Boggs/Reactive-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matt-Boggs/Reactive-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Matt-Boggs/Reactive-Portfolio#readme"
+}
