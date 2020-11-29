@@ -1,0 +1,89 @@
+
+footer {
+  position: fixed;
+  bottom: 0px;
+  text-align: center;
+  width: 100%;
+  background-color: cadetblue;
+  /* outline: black 1px solid; */
+}
+
+h1 {
+  color: seashell;
+  background-color: rgb(95, 93, 93);
+  text-align: center;
+  font-size: 30px;
+  /* padding: 15px; */
+}
+.info {
+  margin-bottom: 50px;
+  padding-top: 50px;
+  line-height: 45px;
+}
+
+h2#name { 
+   background-color: cadetblue;
+  border-radius: 10px;
+  text-align: center;
+}
+h2#contact {
+  background-color: cadetblue;
+  border-radius: 10px;
+  text-align: center;
+}
+
+img {
+  height: 300px;
+  border: black solid 1px;
+  max-width: 800px; max-height: 800px;
+  min-width: 30vh; min-height: 30vh;
+
+}
+
+a {
+  color: darkred;
+}
+
+body {
+  background-color: rgb(242, 255, 242);
+  font-family: 'Oswald', sans-serif;
+  overflow: scroll;
+  -webkit-overflow-scrolling: touch;
+  /* height: 100%; */
+}
+
+header {
+  font-family: 'Anton', sans-serif;
+}
+
+cite {
+  font-size: 8px;
+  /* opacity: 20%; */
+  color: black;
+  position: relative; 
+  bottom: 5px;
+}
+
+/* section.row > div {
+  outline: solid 1px black;
+} */
+/* .container {
+  outline: black 1px solid;
+} */
+
+nav {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.projects {
+  /* outline: solid 1px black; */
+  padding-bottom: 50px;
+}
+
+/* #pics {
+  max-width: 100%; max-height: 100%;
+} */
+
+
+
