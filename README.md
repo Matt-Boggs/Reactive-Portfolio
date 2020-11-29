@@ -6,12 +6,9 @@ This is a recreation of my portfolio using react. This will be the portfolio I u
 ## Table of Contents 
  [Installation](#Installation) || [Usage](#Usage) || [License](#License) || [Contributing](#Contributing) || [Tests](#Tests) || [Questions](#Questions)
 
-### Installation:
+### Hosted at:
+https://stark-escarpment-76268.herokuapp.com/
 
-
-
-### Usage:
-Use this way
 
 #### media1:
 ![media1]()
@@ -25,10 +22,6 @@ Use this way
 
 ### Contributing:
 Any constructive criticism is welcome
-
-
-### Tests:
-Testing at this stage is as simple as trying to break the application
 
 ### Questions:
 To contact the author of this repository, reach them via: 
