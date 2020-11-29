@@ -16,7 +16,7 @@ const Projects = ()=>{
             hosted="https://shelf-indulgence-bc.herokuapp.com/"
             repo="https://github.com/MarkBrazee/project2_BookClub"
             about="Search for books using an api, add those books to a database of books you want to read, and keep track of books you have read"
-            image="./images/Shelf.png"
+            image="./images/Shelf.PNG"
           />
           <Project
             title="Eat Da Burger"
