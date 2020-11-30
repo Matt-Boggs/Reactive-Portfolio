@@ -3,10 +3,6 @@ import React from "react";
 const About = ()=>{
     return(
         <>
-        <header>
-            <h1>My Boppin' Bio</h1>
-        </header>
-
         <div className="container">
             <div className="row">
                 <div className="col-12 col-md-5">
@@ -35,9 +31,6 @@ const About = ()=>{
 
             </div>
         </div>
-        <footer>
-            <cite>Copyright to noone, anywhere, ever</cite>
-        </footer>
         </>
     )
 }

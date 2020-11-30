@@ -15,7 +15,7 @@ const Welcome = ()=>{
                         
                     </div>
                     <div className="card shadow-lg col-3">
-                        <img class="card-img-top" src="./images/Bird2.jpg" alt="Card image"/>
+                        <img className="card-img-top" src="./images/Bird2.jpg" alt="Card image"/>
                         <div className="card-body">
                         <a href="#" className="btn btn-primary stretched-link" target="_blank">Current Project</a>
                         </div>
@@ -24,7 +24,7 @@ const Welcome = ()=>{
                         
                     </div>
                     <div className="card shadow-lg col-3">
-                        <img class="card-img-top" src="./images/lnkdnThumb.PNG" alt="Card image"/>
+                        <img className="card-img-top" src="./images/lnkdnThumb.PNG" alt="Card image"/>
                         <div className="card-body">
                         <a href="https://www.linkedin.com/in/matt-david-boggs/" className="btn btn-primary stretched-link" target="_blank">Linkedin Profile</a>
                         </div>

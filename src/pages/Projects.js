@@ -4,11 +4,7 @@ import Project from "../component/Project";
 
 const Projects = ()=>{
     return (
-        <div>
-      <header>
-        <h1>Boggs Portfolio</h1>
-      </header>
-  
+    <div>
       <div className="container-fluid">
         <section className="row">
           <Project
