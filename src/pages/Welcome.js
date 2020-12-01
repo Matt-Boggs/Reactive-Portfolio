@@ -8,7 +8,7 @@ const Welcome = ()=>{
                     <div className="card shadow-lg col-3">
                         <img className="card-img-top" src="./images/gitThumb.PNG" alt="Card image"/>
                         <div className="card-body">
-                            <a href="https://github.com/Matt-Boggs" className="btn btn-primary stretched-link" target="_blank">Github Profile</a>
+                            <a href="https://github.com/Matt-Boggs" className="btn btn-primary stretched-link" target="_blank" rel="noreferrer noopener">Github Profile</a>
                         </div>
                     </div>
                     <div className="col-1">
@@ -17,7 +17,7 @@ const Welcome = ()=>{
                     <div className="card shadow-lg col-3">
                         <img className="card-img-top" src="./images/Bird2.jpg" alt="Card image"/>
                         <div className="card-body">
-                        <a href="#" className="btn btn-primary stretched-link" target="_blank">Current Project</a>
+                        <a href="#" className="btn btn-primary stretched-link" target="_blank" rel="noreferrer noopener">Current Project</a>
                         </div>
                     </div>
                     <div className="col-1">
@@ -26,7 +26,7 @@ const Welcome = ()=>{
                     <div className="card shadow-lg col-3">
                         <img className="card-img-top" src="./images/lnkdnThumb.PNG" alt="Card image"/>
                         <div className="card-body">
-                        <a href="https://www.linkedin.com/in/matt-david-boggs/" className="btn btn-primary stretched-link" target="_blank">Linkedin Profile</a>
+                        <a href="https://www.linkedin.com/in/matt-david-boggs/" className="btn btn-primary stretched-link" target="_blank" rel="noreferrer noopener">Linkedin Profile</a>
                         </div>
                     </div>
                 </div>

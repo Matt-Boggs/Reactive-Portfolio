@@ -8,7 +8,7 @@ const Project = (props)=>{
             <p><a href={props.hosted}>Hosted page</a></p>
             <p><a href={props.repo}>GitHub Repository</a></p>
             <p>{props.about}</p>
-            <img className="proj-image" src={props.image} alt={props.image}/>
+            <img className="proj-image shadow-lg" src={props.image} alt={props.image}/>
         </div>
     )
 };
