@@ -15,9 +15,9 @@ const Welcome = ()=>{
                         
                     </div>
                     <div className="card shadow-lg col-3">
-                        <img className="card-img-top" src="./images/Bird2.jpg" alt="Card image"/>
+                        <img className="card-img-top" src="./images/giftHome.PNG" alt="Card image"/>
                         <div className="card-body">
-                        <a href="#" className="btn btn-primary stretched-link" target="_blank" rel="noreferrer noopener">Current Project</a>
+                        <a href="https://giftr-registry.herokuapp.com/" className="btn btn-primary stretched-link" target="_blank" rel="noreferrer noopener">Current Project</a>
                         </div>
                     </div>
                     <div className="col-1">
