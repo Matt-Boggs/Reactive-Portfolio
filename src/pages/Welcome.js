@@ -30,6 +30,15 @@ const Welcome = ()=>{
                         </div>
                     </div>
                 </div>
+                <div className="row">
+                    <div className="col-5"></div>
+                    <div className="card shadow col-2">
+                        <div className="card-body">
+                            <a href="#" className="btn btn-primary stretched-link" target="_blank" rel="noreferrer noopener">Continue to Portfolio</a> 
+                        </div>
+                    </div>
+                    <div className="col-5"></div>
+                </div>
             </div>
         </div>
     )
