@@ -12,7 +12,7 @@ const Projects = ()=>{
             hosted="https://giftr-registry.herokuapp.com/"
             repo="https://github.com/Matt-Boggs/registry"
             about="Create gift registries for special occasions, look at other users created registries"
-            image="./images,giftHome.PNG"
+            image="./images/giftHome.PNG"
           />
           <Project
             title="Shelf Indulgence"
