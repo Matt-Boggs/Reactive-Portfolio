@@ -7,6 +7,13 @@ const Projects = ()=>{
     <div>
       <div className="container-fluid">
         <section className="row">
+          <Project 
+            title="Giftr Registry"
+            hosted="https://giftr-registry.herokuapp.com/"
+            repo="https://github.com/Matt-Boggs/registry"
+            about="Create gift registries for special occasions, look at other users created registries"
+            image="./images,giftHome.PNG"
+          />
           <Project
             title="Shelf Indulgence"
             hosted="https://shelf-indulgence-bc.herokuapp.com/"
