@@ -12,9 +12,8 @@ const About = ()=>{
             
                 <div className="col-12 col-md-4 info">
                 
-                    <p>this is another Paragraph</p>
+                    <p>Certified Full-Stack Developer, Forever a student</p>
 
-                    <p>hello my name is matt boggs</p>
                 
                 </div>
             
@@ -22,11 +21,11 @@ const About = ()=>{
                     <h2 id="contact">Contact Info</h2>
                     
                     <ul>
-                    <li><strong>Email:</strong> <a href="mailto:matt.david.boggs@gmail.com" target="_blank" rel="noreferrer noopener">matt.david.boggs@gmail.com</a></li>
-                    <li><strong>Github:</strong> <a href="https://github.com/Matt-Boggs" target="_blank" rel="noreferrer noopener">matt-boggs</a></li>
-                    <li><strong>Linkedin:</strong> <a href="https://www.linkedin.com/in/matt-david-boggs/" target="_blank" rel="noreferrer noopener">matt-david-boggs</a></li>
-                    <li><strong>Phone:</strong> 1-719-238-2520</li>
-                    <li><strong>Portfolio:</strong><a href="https://docs.google.com/document/d/1WKb5q0BQ0WMqXJeVxkXW6WY1PEF-DVTfFcFFvyiFI3I/edit?usp=sharing" target="_blank" rel="noreferrer noopener">Google Doc</a></li>
+                        <li><strong>Email:</strong> <a href="mailto:matt.david.boggs@gmail.com" target="_blank" rel="noreferrer noopener">matt.david.boggs@gmail.com</a></li>
+                        <li><strong>Github:</strong> <a href="https://github.com/Matt-Boggs" target="_blank" rel="noreferrer noopener">matt-boggs</a></li>
+                        <li><strong>Linkedin:</strong> <a href="https://www.linkedin.com/in/matt-david-boggs/" target="_blank" rel="noreferrer noopener">matt-david-boggs</a></li>
+                        <li><strong>Phone:</strong> 1-719-238-2520</li>
+                        <li><strong>Portfolio:</strong><a href="https://docs.google.com/document/d/1WKb5q0BQ0WMqXJeVxkXW6WY1PEF-DVTfFcFFvyiFI3I/edit?usp=sharing" target="_blank" rel="noreferrer noopener">Google Doc</a></li>
                     </ul>
 
                 </div>
