@@ -26,6 +26,7 @@ const About = ()=>{
                     <li><strong>Github:</strong> <a href="https://github.com/Matt-Boggs" target="_blank" rel="noreferrer noopener">matt-boggs</a></li>
                     <li><strong>Linkedin:</strong> <a href="https://www.linkedin.com/in/matt-david-boggs/" target="_blank" rel="noreferrer noopener">matt-david-boggs</a></li>
                     <li><strong>Phone:</strong> 1-719-238-2520</li>
+                    <li><strong>Portfolio:</strong><a href="https://docs.google.com/document/d/1WKb5q0BQ0WMqXJeVxkXW6WY1PEF-DVTfFcFFvyiFI3I/edit?usp=sharing" target="_blank" rel="noreferrer noopener">Google Doc</a></li>
                     </ul>
 
                 </div>
