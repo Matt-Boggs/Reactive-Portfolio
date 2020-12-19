@@ -4,7 +4,7 @@ footer {
   bottom: 0px;
   text-align: center;
   width: 100%;
-  background-color: cadetblue;
+  background-color: #a197a2;
   /* outline: black 1px solid; */
 }
 
@@ -19,17 +19,27 @@ h1 {
   margin-bottom: 50px;
   padding-top: 50px;
   line-height: 45px;
+  background-color: rgba(240, 248, 255, 0.562);
+
 }
 
 h2#name { 
-   background-color: cadetblue;
+   background-color: #a197a2;
   border-radius: 10px;
   text-align: center;
+  color: aliceblue;
+  font-weight: bolder;
 }
 h2#contact {
-  background-color: cadetblue;
+  background-color: #a197a2;
   border-radius: 10px;
   text-align: center;
+  color: aliceblue;
+  font-weight: bolder;
+}
+
+.contactBG {
+  background-color: rgba(240, 248, 255, 0.562);
 }
 
 .proj-image {
@@ -50,6 +60,8 @@ body {
   overflow: scroll;
   -webkit-overflow-scrolling: touch;
   /* height: 100%; */
+  background-image: url("https://images.pexels.com/photos/933054/pexels-photo-933054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  text-align: center;
 }
 
 header {
@@ -80,18 +92,25 @@ nav {
   /* outline: solid 1px black; */
   padding-bottom: 50px;
   text-align: center;
+  background-color: aliceblue;
 }
+
+/* .indProj {
+  
+} */
 
 /* #pics {
   max-width: 100%; max-height: 100%;
 } */
 
-.welcome {
-  background-image: url("https://images.pexels.com/photos/933054/pexels-photo-933054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
-  text-align: center;
+
+
+.projectBG {
+  background-color: #7e7380;
 }
 
 .card {
-  margin-top: 25%; margin-bottom: 50%;
+  margin-top: 12%; margin-bottom: 7%;
+  margin-left: auto; margin-right: auto;
 }
 

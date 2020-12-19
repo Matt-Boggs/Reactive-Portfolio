@@ -7,7 +7,7 @@ const About = ()=>{
             <div className="row">
                 <div className="col-12 col-md-5">
                     <h2 className="col-12" id="name">Matt Boggs</h2>
-                    <img className="col-12 shadow-sm" src="./images/PROF.jpg" alt="Girlie and I"/>
+                    <img className="col-12 shadow-sm" src="./images/PROF.jpg" alt="Profile"/>
                 </div>
             
                 <div className="col-12 col-md-4 info">
@@ -20,7 +20,7 @@ const About = ()=>{
                 <div className="col-12 col-md-3">
                     <h2 id="contact">Contact Info</h2>
                     
-                    <ul>
+                    <ul className="contactBG">
                         <li><strong>Email:</strong> <a href="mailto:matt.david.boggs@gmail.com" target="_blank" rel="noreferrer noopener">matt.david.boggs@gmail.com</a></li>
                         <li><strong>Github:</strong> <a href="https://github.com/Matt-Boggs" target="_blank" rel="noreferrer noopener">matt-boggs</a></li>
                         <li><strong>Linkedin:</strong> <a href="https://www.linkedin.com/in/matt-david-boggs/" target="_blank" rel="noreferrer noopener">matt-david-boggs</a></li>

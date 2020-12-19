@@ -4,7 +4,7 @@ import Project from "../component/Project";
 
 const Projects = ()=>{
     return (
-    <div>
+    <div className="projectBG">
       <div className="container-fluid">
         <section className="row">
           <Project 
