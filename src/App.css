@@ -59,7 +59,7 @@ body {
   font-family: 'Oswald', sans-serif;
   overflow: scroll;
   -webkit-overflow-scrolling: touch;
-  /* height: 100%; */
+  height: 100%;
   background-image: url("https://images.pexels.com/photos/933054/pexels-photo-933054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
   text-align: center;
 }
@@ -110,7 +110,11 @@ nav {
 }
 
 .card {
-  margin-top: 12%; margin-bottom: 7%;
+  margin-top: 3%; margin-bottom: 3%;
   margin-left: auto; margin-right: auto;
+}
+
+.hideMe {
+  /* display: hidden; */
 }
 
