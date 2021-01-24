@@ -1,120 +1,48 @@
-
-footer {
-  position: fixed;
-  bottom: 0px;
-  text-align: center;
-  width: 100%;
-  background-color: #a197a2;
-  /* outline: black 1px solid; */
+.col-6, .col-3, .col-12 {
+  /* outline: 2px solid black; */
 }
 
-h1 {
-  color: seashell;
-  background-color: rgb(95, 93, 93);
-  text-align: center;
-  font-size: 30px;
-  /* padding: 15px; */
+.circle {
+  background-color: cornsilk;
+  width: 50px; height: 50px;
+  border-radius: 100px 100px;
 }
-.info {
-  margin-bottom: 50px;
-  padding-top: 50px;
-  line-height: 45px;
-  background-color: rgba(240, 248, 255, 0.562);
+
+.box {
 
 }
 
-h2#name { 
-   background-color: #a197a2;
-  border-radius: 10px;
-  text-align: center;
-  color: aliceblue;
-  font-weight: bolder;
-}
-h2#contact {
-  background-color: #a197a2;
-  border-radius: 10px;
-  text-align: center;
-  color: aliceblue;
-  font-weight: bolder;
+.triangle {
+/* background-color: cornsilk; */
+height: 0px; width: 0px;
+border-right: 90px solid transparent;
+border-left: 90px solid transparent;
+border-bottom: 150px solid black;
 }
 
-.contactBG {
-  background-color: rgba(240, 248, 255, 0.562);
+.mainChoose {
+ max-height: 200px;
+ margin-left: -20px;
+ margin-right: -20px;
+ z-index: 1;
 }
-
-.proj-image {
-  height: 300px;
-  border: black solid 1px;
-  max-width: 800px; max-height: 800px;
-  min-width: 30vh; min-height: 30vh;
-
+.leftChoose {
+ max-height: 150px;
 }
-
-a {
-  color: darkred;
-}
-
-body {
-  background-color: rgb(242, 255, 242);
-  font-family: 'Oswald', sans-serif;
-  overflow: scroll;
-  -webkit-overflow-scrolling: touch;
-  height: 100%;
-  background-image: url("https://images.pexels.com/photos/933054/pexels-photo-933054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
-  text-align: center;
-}
-
-header {
-  font-family: 'Anton', sans-serif;
-}
-
-cite {
-  font-size: 8px;
-  /* opacity: 20%; */
-  color: black;
-  position: relative; 
-  bottom: 5px;
-}
-
-/* section.row > div {
-  outline: solid 1px black;
-} */
-/* .container {
-  outline: black 1px solid;
-} */
-
-nav {
-  text-align: center;
-  padding-bottom: 10px;
-}
-
-.projects {
-  /* outline: solid 1px black; */
-  padding-bottom: 50px;
-  text-align: center;
-  background-color: aliceblue;
-}
-
-/* .indProj {
+.rightChoose {
+ max-height: 150px;
+ z-index: 0;
   
-} */
-
-/* #pics {
-  max-width: 100%; max-height: 100%;
-} */
-
-
-
-.projectBG {
-  background-color: #7e7380;
 }
 
-.card {
-  margin-top: 3%; margin-bottom: 3%;
-  margin-left: auto; margin-right: auto;
+.flex-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
 }
-
-.hideMe {
-  /* display: hidden; */
+/* PHONESvvvvv */
+@media (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
+  }
 }
-
