@@ -26,19 +26,29 @@ border-bottom: 150px solid black;
  margin-right: -20px;
  z-index: 1;
 }
+.middle {
+  z-index: 1;
+}
+
 .leftChoose {
  max-height: 150px;
 }
+.left {
+  z-index: 0;
+}
+
 .rightChoose {
  max-height: 150px;
  z-index: 0;
-  
+}
+.right {
+  z-index: 0;
 }
 
 .flex-container {
   display: flex;
   justify-content: center;
-  margin-top: 200px;
+  margin-top: 100px;
 }
 /* PHONESvvvvv */
 @media (max-width: 800px) {
